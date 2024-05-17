@@ -1,3 +1,9 @@
+
+
+<div id="header" align="center">
+  <img src="https://i.ibb.co/9TdXpVX/one-piece-brooklyn99.gif" width="100"/>
+</div>
+
 #  About Me:
 Passionate Front-End Developer | Proficient in React.js, JavaScript, HTML/CSS, and Tailwind CSS | Seeking Opportunities to Grow and Contribute
 
