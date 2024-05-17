@@ -1,5 +1,6 @@
 #  About Me:
-Passionate Front-End Developer | Proficient in React.js, JavaScript, HTML/CSS, and Tailwind CSS | Seeking Opportunities to Grow and Contribute
+Motivated Front-End Developer with a keen eye for detail, dedicated to crafting dynamic and intuitive web 
+interfaces. Excels in a collaborative environment, driving innovative projects to success.
 
 
 ##  Socials:
