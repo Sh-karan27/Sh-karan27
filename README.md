@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/olmO4U-qfjUAAAAM/brook-one-piece.gif" width="40vw" height="40vh" />
+  <img src="https://media.tenor.com/olmO4U-qfjUAAAAM/brook-one-piece.gif" width="40vw" hight:"40vh" />
 </div>
 
 # About Me:
