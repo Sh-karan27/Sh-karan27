@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/olmO4U-qfjUAAAAM/brook-one-piece.gif" width="40vw" hight:"40vh" />
-  <img src="https://media1.tenor.com/m/laIaEfzj6d8AAAAC/hobie-brown-spider-verse-hobie-brown.gif" width="20vw" hight:"20vh" />
+  <img src="https://i.pinimg.com/originals/de/1b/25/de1b254055a1df7a350feea6f03611fd.gif" width="20vw" hight:"20vh" />
 </div>
 
 # About Me:
