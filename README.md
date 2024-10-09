@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/olmO4U-qfjUAAAAM/brook-one-piece.gif" width="40vw" hight:"40vh" />
-  <img src="https://i.pinimg.com/originals/de/1b/25/de1b254055a1df7a350feea6f03611fd.gif" width="20vw" hight:"20vh" />
+  <img src="https://25.media.tumblr.com/718ca0b1cacf89750101dd015e564109/tumblr_mh33g7Hcig1rtgi6co1_500.gif" width="20vw" hight:"20vh" />
 </div>
 
 # About Me:
